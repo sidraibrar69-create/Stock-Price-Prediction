@@ -109,8 +109,8 @@ Possible improvements include:
 * Using LSTM Deep Learning models
 * Adding more technical indicators
 * Improving prediction accuracy
-
-## Conclusion
+**
+## Conclusion****
 
 This project demonstrates how Machine Learning can be used to analyze historical stock market data and predict future stock prices. It provides hands-on experience with regression models, API-based data collection, and visualization techniques.
 
